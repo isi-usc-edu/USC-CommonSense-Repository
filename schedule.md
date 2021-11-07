@@ -5,8 +5,7 @@ title: USC AI Futures Symposium on AI with Common Sense
 ---
 
 
-The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times below are in PST (Los Angeles time).  Links to attend the sessions will be emailed privately after registration. 
-
+The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times below are in PST (Los Angeles time).  Links to attend the sessions will be emailed privately after [registration](https://usc.zoom.us/webinar/register/WN_V-mMUlHGQMWnkecKyPUQWA).
 
 
 ## Tuesday December 7, 2021
