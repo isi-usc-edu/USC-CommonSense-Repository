@@ -13,7 +13,6 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
 | 9:00 | 9:15 | **Welcome and Opening Remarks**  |  |
-|  |  | [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Computer Scientist, Information Sciences Institute, School of Engineering | <img src="images/Ilievski.jpg" width="100" /> |
 | 10:00 | 11:00 | **Session I: Common Sense Reasoning**  |  |
 |  |  | *Explaining with Common Sense* <br> [Xiang Ren](http://ink-ron.usc.edu/xiangren/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering	 | <img src="images/Ren.jpg" width="100" /> |
 |  |  | *Predicting Events* <br> [Manuel Ciosici](https://scholar.google.com/citations?user=vseIg5YAAAAJ&hl=en) <br> Postdoctoral Researcher, Information Sciences Institute, School of Engineering | <img src="images/Ciosici.jpeg" width="100" /> |
@@ -48,4 +47,3 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**  |  |
 |  |  | Panel Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Computer Science, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="100" /> |
 | 11:45 | 12:00 | **Closing Remarks**  |  |
-|  |  | [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="100" />  |
