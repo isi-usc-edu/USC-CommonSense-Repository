@@ -19,6 +19,8 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) <br> Fletcher Jones Professor in Computer Science and Professor of Computer Science and Electrical and Computer Engineering | <img src="images/Nevatia.jpeg" width="500" /> |
 |  |  | *Open-world Agents* <br> [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Computer Scientist, Information Sciences Institute, University of Southern California | <img src="images/Ilievski.jpg" width="500" /> |
 | 10:00 | 10:15 | **Break**  |  |
+
+
 | 10:15 | 11:00 | **Session II: Organizing Common Sense**  |  |
 |  |  | *Dimensions of Common Sense* <br> [Pedro Szekely](https://usc-isi-i2.github.io/szekely/) <br> Principal Scientist and Director of the AI Division, USC/ISI;  Research Associate Professor, USC Viterbi School of Engineering | <img src="images/Szekely.jpeg" width="500" /> |
 |  |  | *Learning Common Sense* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="500" /> |
