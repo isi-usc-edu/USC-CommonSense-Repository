@@ -24,7 +24,7 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *Learning Common Sense* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="500" /> |
 |  |  | *From Data to Common Sense* <br> [Muhao Chen](https://muhaochen.github.io/) <br>  Assistant Research Professor of Computer Science | <img src="images/Chen.jpeg" width="500" /> |
 
-|  |  | *Crowdsourced Common Sense* <br> [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="500" /> |
+|  |  | *Crowdsourced Common Sense* <br> [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute, Viterbi School of Engineering; Director, Data Science Programs, Computer Science Department, Viterbi School of Engineering | <img src="images/Gil.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Invited Talk: TBD** | |
 
