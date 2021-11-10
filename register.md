@@ -7,4 +7,4 @@ title: USC AI Futures Symposium on AI with Common Sense
 
 # Register
 
-Registration link: TBD
+**[Register at this link](https://usc.zoom.us/webinar/register/WN_2vcznEeMQsO44aYZpk8RIg)**
