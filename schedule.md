@@ -21,8 +21,8 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | 10:05 | 10:15 | **Break**  |  |
 | 10:15 | 11:00 | **Session II: Common Sense Knowledge**  |  |
 |  |  | *Dimensions of Common Sense* <br> [Pedro Szekely](https://usc-isi-i2.github.io/szekely/) <br> Principal Scientist and Director of the AI Division, USC/ISI;  Research Associate Professor, USC Viterbi School of Engineering | <img src="images/Szekely.jpeg" width="500" /> |
-|  |  | *Learning Common Sense* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="500" /> |
-|  |  | *From Data to Common Sense* <br> [Muhao Chen](https://muhaochen.github.io/) <br>  Assistant Research Professor of Computer Science | <img src="images/Chen.jpeg" width="500" /> |
+|  |  | *Learning Common Sense* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Team Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="500" /> |
+|  |  | *From Data to Common Sense* <br> [Muhao Chen](https://muhaochen.github.io/) <br>  Research Assistant Professor of Computer Science | <img src="images/Chen.jpeg" width="500" /> |
 |  |  | *Transferring Knowledge* <br> [Jon May](https://www.isi.edu/~jonmay/) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering; Research Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/May.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Invited Talk: TBD** | |
