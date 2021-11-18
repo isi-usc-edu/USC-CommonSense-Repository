@@ -35,4 +35,4 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | 9:00 | 9:45 | **Session III: Common Sense for Creativity** |  |
 |  |  | *Generating New Ideas* <br> [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Team Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="500" /> |
 |  |  | *Biases in Common Sense* <br> [Fred Morstatter](https://isi.edu/~fredmors/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Morstatter.jpg" width="500" /> |
-
+|  |  | *Explaining Stories and Dialogues* <br> [Jay Pujara](https://www.jaypujara.org/) <br> Research Lead and Director of the Center on Knowledge Graphs, Information Sciences Institute; Research Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Pujara.png" width="500" /> |
