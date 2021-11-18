@@ -25,7 +25,7 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *From Data to Common Sense* <br> [Muhao Chen](https://muhaochen.github.io/) <br>  Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Chen.jpeg" width="500" /> |
 |  |  | *Transferring Knowledge* <br> [Jon May](https://www.isi.edu/~jonmay/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/May.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
-| 11:15 | 12:00 | **Invited Talk: Title TBD <br/>[Tomer Ullman](https://www.tomerullman.org/)** <br/> Assistant Professor, Department of Psychology, Harvard University | <img src="images/Ullman.jpeg" width="500" /> |
+| 11:15 | 12:00 | **Invited Talk: Title TBD** <br/>[Tomer Ullman](https://www.tomerullman.org/) <br/> Assistant Professor, Department of Psychology, Harvard University | <img src="images/Ullman.jpeg" width="500" /> |
 
 
 ## Wednesday December 8, 2021
@@ -47,5 +47,5 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**<br/> Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/)  |  |
 |  |  | [Catherine Havasi](https://www.catherinehavasi.com/)<br/> CEO of Luminoso  | <img src="images/Havasi.png" width="500" /> |
 |  |  | [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html) <br/> Professor of Computer Science and Education, Northwestern University | <img src="images/Forbus.jpeg" width="500" /> |
-|  |  | [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/), Assistant Professor of Computer Science, University of British Columbia  | <img src="images/Schwarz.jpeg" width="500" /> |
+|  |  | [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/) <br/> Assistant Professor of Computer Science, University of British Columbia  | <img src="images/Schwarz.jpeg" width="500" /> |
 | 11:45 | 12:00 | **Closing Remarks**  |  |
