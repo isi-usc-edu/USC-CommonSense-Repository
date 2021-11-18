@@ -45,5 +45,5 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *User-Centric Explanations* <br> [Mike Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Pazzani.jpeg" width="500" /> |
 | 10:45 | 11:00 | **Break**  |  |
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**  |  |
-|  |  | Panel Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Team Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="500" /> |
+|  |  | Panel Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) Information Sciences Institute, Viterbi School of Engineering <br/> | <img src="images/Kejriwal.jpeg" width="500" /> |
 | 11:45 | 12:00 | **Closing Remarks**  |  |
