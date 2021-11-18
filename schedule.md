@@ -15,7 +15,7 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | 9:00 | 9:15 | **Welcome and Opening Remarks**  |  |
 | 9:15 | 10:05 | **Session I: Common Sense Reasoning**  |  |
 |  |  | *Open-world Agents* <br> [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Ilievski.jpg" width="500" /> |
-|  |  | *Explaining with Common Sense* <br> [Xiang Ren](http://ink-ron.usc.edu/xiangren/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering	 | <img src="images/Ren.jpg" width="500" /> |
+|  |  | *Explaining with Common Sense* <br> [Xiang Ren](https://shanzhenren.github.io/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering	 | <img src="images/Ren.jpg" width="500" /> |
 |  |  | *Predicting Events* <br> [Manuel Ciosici](https://scholar.google.com/citations?user=vseIg5YAAAAJ&hl=en) <br> Postdoctoral Researcher, Information Sciences Institute, School of Engineering | <img src="images/Ciosici.jpeg" width="500" /> |
 |  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) <br> Fletcher Jones Professor in Computer Science and Professor of Computer Science and Electrical and Computer Engineering | <img src="images/Nevatia.jpeg" width="500" /> |
 | 10:05 | 10:15 | **Break**  |  |
