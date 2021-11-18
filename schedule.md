@@ -40,6 +40,8 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | 9:45 | 10:00 | **Break**  |  |
 | 10:00 | 10:45 | **Session IV: Common Sense in AI Agents and Robots** |  |
 |  |  | *Modeling Emotions* <br> [Jon Gratch](https://ict.usc.edu/profile/jonathan-gratch/) <br> Research Professor of Computer Science, Viterbi School of Engineering; Director for Virtual Humans Research, Institute for Creative Technologies, Viterbi School of Engineering | <img src="images/Gratch.jpeg" width="500" /> |
+
+
 |  |  | *Self-Diagnosis of Robot Failures* <br> [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Nikolaidis.jpeg" width="500" /> |
 |  |  | *Trust and Deception in Robots* <br> [Maja Mataric](https://robotics.usc.edu/~maja/) <br> USC Interim Vice President of Research; Chan Soon-Shiong Chair and Distinguished Professor of Computer Science, Neuroscience, and Pediatrics, Viterbi School of Engineering | <img src="images/Mataric.jpg" width="500" /> |
 |  |  | *User-Centric Explanations* <br> [Mike Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Pazzani.jpeg" width="500" /> |
