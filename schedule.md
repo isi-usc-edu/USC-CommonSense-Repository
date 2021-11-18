@@ -20,10 +20,10 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) <br>Professor of Computer Science and Electrical and Computer Engineering, Viterbi School of Engineering; Director, Institute for Robotics and Intelligent Systems, Viterbi School of Engineering | <img src="images/Nevatia.jpeg" width="500" /> |
 | 10:05 | 10:15 | **Break**  |  |
 | 10:15 | 11:00 | **Session II: Common Sense Knowledge**  |  |
-|  |  | *Dimensions of Common Sense* <br> [Pedro Szekely](https://usc-isi-i2.github.io/szekely/) <br> Principal Scientist and Director of the AI Division, Information Sciences Institute, Viterbi School of Engineering; Research Associate Professor of Computer Science, Viterbi School of Engineering | <img src="images/Szekely.jpeg" width="500" /> |
+|  |  | *Dimensions of Common Sense* <br> [Pedro Szekely](https://usc-isi-i2.github.io/szekely/) <br> Research Associate Professor of Computer Science, Viterbi School of Engineering; Principal Scientist and Director of the AI Division, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Szekely.jpeg" width="500" /> |
 |  |  | *Learning Common Sense* <br> [Marjorie Freedman](https://www.isi.edu/people/mrf/about) <br> Research Team Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Freedman.jpg" width="500" /> |
 |  |  | *From Data to Common Sense* <br> [Muhao Chen](https://muhaochen.github.io/) <br>  Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Chen.jpeg" width="500" /> |
-|  |  | *Transferring Knowledge* <br> [Jon May](https://www.isi.edu/~jonmay/) <br> Research Lead, Information Sciences Institute, Viterbi School of Engineering; Research Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/May.jpg" width="500" /> |
+|  |  | *Transferring Knowledge* <br> [Jon May](https://www.isi.edu/~jonmay/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/May.jpg" width="500" /> |
 | 11:00 | 11:15 | **Break**  |  |
 | 11:15 | 12:00 | **Invited Talk: Title TBD <br/>[Tomer Ullman](https://www.tomerullman.org/)** <br/> Assistant Professor, Department of Psychology, Harvard University | <img src="images/Ullman.jpeg" width="500" /> |
 
@@ -33,17 +33,17 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
 | 9:00 | 9:45 | **Session III: Common Sense for Creativity** |  |
-|  |  | *Generating New Ideas* <br> [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Computer Science, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="500" /> |
-|  |  | *Biases in Common Sense* <br> [Fred Morstatter](https://isi.edu/~fredmors/) <br> Research Assistant Professor of Computer Science, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Morstatter.jpg" width="500" /> |
-|  |  | *Explaining Stories and Dialogues* <br> [Jay Pujara](https://www.jaypujara.org/) <br> Director, Center on Knowledge Graphs; Research Assistant Professor, Computer Science; Research Lead, Information Sciences Institute | <img src="images/Pujara.png" width="500" /> |
-|  |  | *Negotiating Agents* <br> [Emmanuel Johnson](https://www.exjohnson.com/) <br> Postdoctoral Research Associate, Information Science Institute | <img src="images/Johnson.jpeg" width="500" /> |
+|  |  | *Generating New Ideas* <br> [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Team Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="500" /> |
+|  |  | *Biases in Common Sense* <br> [Fred Morstatter](https://isi.edu/~fredmors/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Morstatter.jpg" width="500" /> |
+|  |  | *Explaining Stories and Dialogues* <br> [Jay Pujara](https://www.jaypujara.org/) <br> Research Lead and Director of the Center on Knowledge Graphs, Information Sciences Institute, Viterbi School of Engineering; Research Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Pujara.png" width="500" /> |
+|  |  | *Negotiating Agents* <br> [Emmanuel Johnson](https://www.exjohnson.com/) <br> Postdoctoral Research Associate, Information Science Institute, Viterbi School of Engineering | <img src="images/Johnson.jpeg" width="500" /> |
 | 9:45 | 10:00 | **Break**  |  |
 | 10:00 | 10:45 | **Session IV: Common Sense in AI Agents and Robots** |  |
-|  |  | *Modeling Emotions* <br> [Jon Gratch](https://ict.usc.edu/profile/jonathan-gratch/) <br> Director for Virtual Humans Research, Institute for Creative Technologies; Research Professor, USC Viterbi School of Engineering Computer Science Department | <img src="images/Gratch.jpeg" width="500" /> |
-|  |  | *Self-Diagnosis of Robot Failures* <br> [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) <br> Assistant Professor of Computer Science | <img src="images/Nikolaidis.jpeg" width="500" /> |
-|  |  | *Trust and Deception in Robots* <br> [Maja Mataric](https://robotics.usc.edu/~maja/) <br> USC Interim Vice President of Research; Chan Soon-Shiong Chair and Distinguished Professor of Computer Science, Neuroscience, and Pediatrics | <img src="images/Mataric.jpg" width="500" /> |
-|  |  | *User-Centric Explanations* <br> [Mike Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute | <img src="images/Pazzani.jpeg" width="500" /> |
+|  |  | *Modeling Emotions* <br> [Jon Gratch](https://ict.usc.edu/profile/jonathan-gratch/) <br> Research Professor of Computer Science, Viterbi School of Engineering; Director for Virtual Humans Research, Institute for Creative Technologies, Viterbi School of Engineering | <img src="images/Gratch.jpeg" width="500" /> |
+|  |  | *Self-Diagnosis of Robot Failures* <br> [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Nikolaidis.jpeg" width="500" /> |
+|  |  | *Trust and Deception in Robots* <br> [Maja Mataric](https://robotics.usc.edu/~maja/) <br> USC Interim Vice President of Research; Chan Soon-Shiong Chair and Distinguished Professor of Computer Science, Neuroscience, and Pediatrics, Viterbi School of Engineering | <img src="images/Mataric.jpg" width="500" /> |
+|  |  | *User-Centric Explanations* <br> [Mike Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Pazzani.jpeg" width="500" /> |
 | 10:45 | 11:00 | **Break**  |  |
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**  |  |
-|  |  | Panel Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Computer Science, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="500" /> |
+|  |  | Panel Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/) <br> Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Team Lead, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Kejriwal.jpeg" width="500" /> |
 | 11:45 | 12:00 | **Closing Remarks**  |  |
