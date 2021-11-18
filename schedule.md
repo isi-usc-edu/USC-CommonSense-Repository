@@ -44,6 +44,8 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *Trust and Deception in Robots* <br> [Maja Mataric](https://robotics.usc.edu/~maja/) <br> USC Interim Vice President of Research; Chan Soon-Shiong Chair and Distinguished Professor of Computer Science, Neuroscience, and Pediatrics, Viterbi School of Engineering | <img src="images/Mataric.jpg" width="500" /> |
 |  |  | *User-Centric Explanations* <br> [Mike Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Pazzani.jpeg" width="500" /> |
 | 10:45 | 11:00 | **Break**  |  |
-| 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**  |  |
-|  |  | Speakers: <br/>[Catherine Havasi](https://www.catherinehavasi.com/), Luminoso <br/> [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html), Northwestern University <br/> [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/), University of British Columbia <br/> Moderator: <br/>[Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/), Information Sciences Institute, Viterbi School of Engineering |  |
+| 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**<br/> Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/)  |  |
+|  |  | [Catherine Havasi](https://www.catherinehavasi.com/)<br/> CEO of Luminoso  | <img src="images/Havasi.png" width="500" /> |
+|  |  | [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html) <br/> Professor of Computer Science and Education, Northwestern University | <img src="images/Forbus.jpeg" width="500" /> |
+|  |  | [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/), Assistant Professor of Computer Science, University of British Columbia  | <img src="images/Schwarz.jpeg" width="500" /> |
 | 11:45 | 12:00 | **Closing Remarks**  |  |
