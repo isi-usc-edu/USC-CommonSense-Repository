@@ -45,6 +45,5 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *User-Centric Explanations* <br> [Mike Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Pazzani.jpeg" width="500" /> |
 | 10:45 | 11:00 | **Break**  |  |
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**  |  |
-|  |  | Moderator: <br/>[Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/),  Information Sciences Institute, Viterbi School of Engineering <br/> 
-Speakers: <br/>[Catherine Havasi](https://www.catherinehavasi.com/), Luminoso <br/> [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html), Northwestern University <br/> [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/), University of British Columbia|  |
+|  |  | Moderator: <br/>[Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/),  Information Sciences Institute, Viterbi School of Engineering <br/> Speakers: <br/>[Catherine Havasi](https://www.catherinehavasi.com/), Luminoso <br/> [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html), Northwestern University <br/> [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/), University of British Columbia|  |
 | 11:45 | 12:00 | **Closing Remarks**  |  |
