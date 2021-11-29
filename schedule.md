@@ -46,6 +46,7 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *User-Centric Explainable AI* <br> [Michael Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Pazzani.jpeg" width="500" /> |
 | 10:45 | 11:00 | **Break**  |  |
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**<br/> Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/)  |  |
+|  |  | Session chair: [Sven Koenig](http://idm-lab.org) <br> Professor of Computer Science, Viterbi School of Engineering | <img src="images/Koenig.jpg" width="500" /> |
 |  |  | [Catherine Havasi](https://www.catherinehavasi.com/)<br/> CEO, Luminoso  | <img src="images/Havasi.png" width="500" /> |
 |  |  | [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html) <br/> Professor of Computer Science and Education, Northwestern University | <img src="images/Forbus.jpeg" width="500" /> |
 |  |  | [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/) <br/> Assistant Professor of Computer Science, University of British Columbia  | <img src="images/Schwarz.jpeg" width="500" /> |
