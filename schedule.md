@@ -14,7 +14,7 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | ---- | ---- | --------- | ------------------- |   
 | 9:00 | 9:15 | **Welcome and Opening Remarks**  |  |
 | 9:15 | 10:00 | **Session I: Common Sense Reasoning**  |  |
-|  |  | Session chair: [Shri Narayanan](https://viterbi.usc.edu/directory/faculty/Narayanan/Shrikanth) <br> Professor of Electrical and Computer Engineering and Computer Science, Viterbi School of Engineering; Professor of Linguistics, Psychology and Neuroscience, Dornsife College of Letters, Arts and Sciences; Professor of Pediatrics, Otolaryngology-Head and Neck Surgery, Keck School of Medicine; Research Director, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Narayanan.jpg" width="1000" /> |
+|  |  | Session chair: [Shri Narayanan](https://viterbi.usc.edu/directory/faculty/Narayanan/Shrikanth) <br> Professor of Electrical and Computer Engineering and Computer Science, Viterbi School of Engineering; Professor of Linguistics, Psychology and Neuroscience, Dornsife College of Letters, Arts and Sciences; Professor of Pediatrics, Otolaryngology-Head and Neck Surgery, Keck School of Medicine; Research Director, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Narayanan.jpg" width="1500" /> |
 |  |  | *Open-world Agents* <br> [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Ilievski.jpg" width="500" /> |
 |  |  | *Predicting Events* <br> [Manuel Ciosici](https://scholar.google.com/citations?user=vseIg5YAAAAJ&hl=en) <br> Postdoctoral Researcher, Information Sciences Institute, Viterby School of Engineering | <img src="images/Ciosici.jpeg" width="500" /> |
 |  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) <br>Professor of Computer Science and Electrical and Computer Engineering; Director, Institute for Robotics and Intelligent Systems, Viterbi School of Engineering | <img src="images/Nevatia.jpeg" width="500" /> |
@@ -40,13 +40,13 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *Negotiating Agents* <br> [Emmanuel Johnson](https://www.exjohnson.com/) <br> Postdoctoral Research Associate, Information Science Institute, Viterbi School of Engineering | <img src="images/Johnson.jpeg" width="500" /> |
 | 9:45 | 10:00 | **Break**  |  |
 | 10:00 | 10:45 | **Session IV: Common Sense in AI Agents and Robots** |  |
+|  |  | Session chair: [Sven Koenig](http://idm-lab.org) <br> Professor of Computer Science, Viterbi School of Engineering | <img src="images/Koenig.jpg" width="500" /> |
 |  |  | *Modeling Emotions* <br> [Jon Gratch](https://ict.usc.edu/profile/jonathan-gratch/) <br> Research Professor of Computer Science; Director for Virtual Humans Research, Institute for Creative Technologies, Viterbi School of Engineering | <img src="images/Gratch.jpeg" width="500" /> |
 |  |  | *Self-Diagnosis of Robot Failures* <br> [Stefanos Nikolaidis](https://stefanosnikolaidis.net/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering | <img src="images/Nikolaidis.jpeg" width="500" /> |
 |  |  | *Trust and Deception in Robots* <br> [Maja Mataric](https://robotics.usc.edu/~maja/) <br> Interim Vice President of Research; Chair & Distinguished Professor of Computer Science, Neuroscience, and Pediatrics, Viterbi School of Engineering | <img src="images/Mataric.jpg" width="500" /> |
 |  |  | *User-Centric Explainable AI* <br> [Michael Pazzani](https://www.isi.edu/directory/pazzani/) <br> Principal Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Pazzani.jpeg" width="500" /> |
 | 10:45 | 11:00 | **Break**  |  |
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**<br/> Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/)  |  |
-|  |  | Session chair: [Sven Koenig](http://idm-lab.org) <br> Professor of Computer Science, Viterbi School of Engineering | <img src="images/Koenig.jpg" width="500" /> |
 |  |  | [Catherine Havasi](https://www.catherinehavasi.com/)<br/> CEO, Luminoso  | <img src="images/Havasi.png" width="500" /> |
 |  |  | [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html) <br/> Professor of Computer Science and Education, Northwestern University | <img src="images/Forbus.jpeg" width="500" /> |
 |  |  | [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/) <br/> Assistant Professor of Computer Science, University of British Columbia  | <img src="images/Schwarz.jpeg" width="500" /> |
