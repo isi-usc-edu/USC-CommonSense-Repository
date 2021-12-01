@@ -27,7 +27,7 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 |  |  | *Robust Knowledge Acquisition* <br> [Muhao Chen](https://muhaochen.github.io/) <br>  Research Assistant Professor of Computer Science, Viterbi School of Engineering; Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Chen.jpeg" width="500" /> |
 |  |  | *Crowdsourced Common Sense* <br> [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute; Director, Data Science Programs, Computer Science Department; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="1250" /> |
 | 11:00 | 11:15 | **Break**  |  |
-| 11:15 | 12:00 | **Invited Talk: Title TBD** <br/>[Tomer Ullman](https://www.tomerullman.org/) <br/> Assistant Professor, Department of Psychology, Harvard University | <img src="images/Ullman.jpeg" width="500" /> |
+| 11:15 | 12:00 | **Invited Talk: Models of core common sense in infancy** <br/>[Tomer Ullman](https://www.tomerullman.org/) <br/> Assistant Professor, Department of Psychology, Harvard University | <img src="images/Ullman.jpeg" width="500" /> |
 
 
 ## Wednesday December 8, 2021
