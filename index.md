@@ -8,7 +8,7 @@ title: USC AI Futures Symposium on AI with Common Sense
 <img src="images/common-sense-10.png" alt="CS-flier" width="1000" />
 
 
-Humans use common sense knowledge to understand how the world works.  AI systems still lack commonsense knowledge, which is critical in many domains in order to form expectations, manage unexpected situations, and connect with the human experience. This symposium presents an overview of research at USC on acquiring and organizing commonsense knowledge, integrating it into AI systems, and measuring its impact on improving AI system behaviors and interactions with people.
+Humans use commonsense knowledge to understand how the world works.  AI systems still lack commonsense knowledge, which is critical in many domains in order to form expectations, manage unexpected situations, and connect with the human experience. This symposium presents an overview of research at USC on acquiring and organizing commonsense knowledge, integrating it into AI systems, and measuring its impact on improving AI system behaviors and interactions with people.
 
 This event is part of the USC AI Futures Symposium Series. Prior events were held in May 2021 with the theme: [AI and Data Science](https://www.isi.edu/events/ai-symposium/), and in January 2021 with the theme: [Will AIs Ever Be One of Us?](https://www.isi.edu/events/ai_symposium_2021).
 
