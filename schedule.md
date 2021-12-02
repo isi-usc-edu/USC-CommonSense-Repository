@@ -13,11 +13,13 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | Start | End | Session |  |
 | ---- | ---- | --------- | ------------------- |   
 | 9:00 | 9:15 | **Welcome and Opening Remarks**  |  |
+|  |  | [Yannis Yortsos](https://viterbi.usc.edu/directory/faculty/Yortsos/Yannis) <br> Zohrab A. Kaprielian Dean’s Chair in Engineering and Chester Dolley Professor of Chemical and Petroleum Engineering | <img src="images/Yortsos.jpg" width="500" /> |
+|  |  | [Craig Knoblock](https://usc-isi-i2.github.io/knoblock/) <br> Keston Executive Director, Information Sciences Institute, Viterbi School of Engineering; Vice Dean of Engineering, Viterbi School of Engineering; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Knoblock.jpg" width="500" /> |
 | 9:15 | 10:00 | **Session I: Commonsense Reasoning**  |  |
 |  |  | Session chair: [Shri Narayanan](https://viterbi.usc.edu/directory/faculty/Narayanan/Shrikanth) <br> Professor of Electrical and Computer Engineering and Computer Science, Viterbi School of Engineering; Professor of Linguistics, Psychology and Neuroscience, Dornsife College of Letters, Arts and Sciences; Professor of Pediatrics, Otolaryngology-Head and Neck Surgery, Keck School of Medicine; Research Director, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Narayanan.jpg" width="1250" /> |
 |  |  | *Open-world Agents* <br> [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Ilievski.jpg" width="500" /> |
 |  |  | *Predicting Events* <br> [Manuel Ciosici](https://scholar.google.com/citations?user=vseIg5YAAAAJ&hl=en) <br> Postdoctoral Researcher, Information Sciences Institute, Viterby School of Engineering | <img src="images/Ciosici.jpeg" width="500" /> |
-|  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) <br>Professor of Computer Science and Electrical and Computer Engineering; Director, Institute for Robotics and Intelligent Systems, Viterbi School of Engineering | <img src="images/Nevatia.jpeg" width="500" /> |
+|  |  | *Visual Grounding* <br> [Ram Nevatia](https://sites.usc.edu/iris-cvlab/professor-ram-nevatia/) <br>Professor of Computer Science and Electrical and Computer Engineering, Viterbi School of Engineering | <img src="images/Nevatia.jpeg" width="500" /> |
 |  |  | *Explaining with Common Sense* <br> [Xiang Ren](https://shanzhenren.github.io/) <br> Assistant Professor of Computer Science, Viterbi School of Engineering; Research Lead, Information Sciences Institute, Viterbi School of Engineering	 | <img src="images/Ren.jpg" width="500" /> |
 | 10:00 | 10:15 | **Break**  |  |
 | 10:15 | 11:00 | **Session II: Commonsense Knowledge**  |  |
