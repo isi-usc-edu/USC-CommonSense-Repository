@@ -53,7 +53,7 @@ The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.  All times
 | 11:00 | 11:45 | **Panel: Common Sense and Artificial General Intelligence**<br/> Moderator: [Mayank Kejriwal](https://usc-isi-i2.github.io/kejriwal/)  |  |
 |  |  | [Catherine Havasi](https://www.catherinehavasi.com/)<br/> CEO, Luminoso  | <img src="images/Havasi.png" width="500" /> |
 |  |  | [Kenneth Forbus](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/forbus-ken.html) <br/> Professor of Computer Science and Education, Northwestern University | <img src="images/Forbus.jpeg" width="500" /> |
-|  |  | [Vered Schwarz](https://www.cs.ubc.ca/~vshwartz/) <br/> Assistant Professor of Computer Science, University of British Columbia  | <img src="images/Schwarz.jpeg" width="500" /> |
+|  |  | [Vered Schwartz](https://www.cs.ubc.ca/~vshwartz/) <br/> Assistant Professor of Computer Science, University of British Columbia  | <img src="images/Schwarz.jpeg" width="500" /> |
 | 11:45 | 12:00 | **Closing Remarks**  |  |
 |  |  | [Filip Ilievski](https://usc-isi-i2.github.io/ilievski/) <br> Research Scientist, Information Sciences Institute, Viterbi School of Engineering | <img src="images/Ilievski.jpg" width="500" /> |
 |  |  | [Yolanda Gil](https://www.isi.edu/~gil/) <br> Senior Director, Information Sciences Institute; Director, Data Science Programs, Computer Science Department; Research Professor of Computer Science, Viterbi School of Engineering; Research Professor of Spatial Sciences, Dornsife College of Letters, Arts and Sciences | <img src="images/Gil.jpg" width="875" /> |
