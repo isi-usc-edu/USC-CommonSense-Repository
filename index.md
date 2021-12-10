@@ -18,13 +18,13 @@ This event is part of the USC AI Futures Symposium Series. Prior events were hel
 
 **Individual sessions:**
 
-<a href="https://youtu.be/JJ2a8Eleox0">Welcome and Opening Remarks</a>
+* <a href="https://youtu.be/JJ2a8Eleox0">Welcome and Opening Remarks</a>
 
-<a href="https://youtu.be/h6sTdb1GD1g">Session I: Commonsense Reasoning</a>
+* <a href="https://youtu.be/h6sTdb1GD1g">Session I: Commonsense Reasoning</a>
 
-<a href="https://youtu.be/YH6mft4NcYI">Session II: Commonsense Knowledge</a>
+* <a href="https://youtu.be/YH6mft4NcYI">Session II: Commonsense Knowledge</a>
 
-<a href="https://youtu.be/hbJskihE6AM">Keynote: Tomer Ullman</a>
+* <a href="https://youtu.be/hbJskihE6AM">Keynote: Tomer Ullman</a>
 
 
 ## Schedule
