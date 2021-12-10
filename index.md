@@ -14,7 +14,7 @@ This event is part of the USC AI Futures Symposium Series. Prior events were hel
 
 ## Recordings
 
-<a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaLtCMYo2-ggdfOPJKiZq89c"><b>Playlist</b></a>
+Video recordings of all the sessions are available <a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaLtCMYo2-ggdfOPJKiZq89c"><b>here</b></a>.
 
 **Individual sessions:**
 
