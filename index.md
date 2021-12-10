@@ -12,6 +12,21 @@ Humans use commonsense knowledge to understand how the world works.  AI systems 
 
 This event is part of the USC AI Futures Symposium Series. Prior events were held in May 2021 with the theme: [AI and Data Science](https://www.isi.edu/events/ai-symposium/), and in January 2021 with the theme: [Will AIs Ever Be One of Us?](https://www.isi.edu/events/ai_symposium_2021).
 
+## Recordings
+
+<a href="https://www.youtube.com/playlist?list=PLknXvJJeEDaLtCMYo2-ggdfOPJKiZq89c"><b>Playlist</b></a>
+
+**Individual sessions:**
+
+<a href="https://youtu.be/JJ2a8Eleox0">Welcome and Opening Remarks</a>
+
+<a href="https://youtu.be/h6sTdb1GD1g">Session I: Commonsense Reasoning</a>
+
+<a href="https://youtu.be/YH6mft4NcYI">Session II: Commonsense Knowledge</a>
+
+<a href="https://youtu.be/hbJskihE6AM">Keynote: Tomer Ullman</a>
+
+
 ## Schedule
 
 The sessions will run from 9am PST to 12pm PST on December 7-8, 2021.
