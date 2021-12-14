@@ -32,7 +32,7 @@ Video recordings of all the sessions are available <a href="https://www.youtube.
 
 * <a href="https://youtu.be/oyzUZGfMg20">Panel: Common Sense and AGI</a>
 
-* <a href="https://youtu.be/WISda6eyzJI">Closing remarks</a>
+* <a href="https://youtu.be/WISda6eyzJI">Closing Remarks</a>
 
 
 ## Schedule
