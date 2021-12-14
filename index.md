@@ -25,9 +25,13 @@ Video recordings of all the sessions are available <a href="https://www.youtube.
 * <a href="https://youtu.be/YH6mft4NcYI">Session II: Commonsense Knowledge</a>
 
 * <a href="https://youtu.be/hbJskihE6AM">Keynote: Tomer Ullman</a>
+ 
 * <a href="https://youtu.be/JJ2a8Eleox0">Session III: Common Sense Creativity</a>
+
 * <a href="https://youtu.be/MWMV1GYzF-Y">Session IV: Common Sense in AI Agents and Robots</a>
+
 * <a href="https://youtu.be/oyzUZGfMg20">Panel: Common Sense and AGI</a>
+
 * <a href="https://youtu.be/WISda6eyzJI">Closing remarks</a>
 
 
